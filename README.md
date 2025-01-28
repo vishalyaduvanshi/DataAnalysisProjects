@@ -15,12 +15,11 @@ Each project in this repository highlights specific aspects of data analysis, in
 1. **Amazon Sales Report Feb’24**
    - **Description**: Analyzed customer activities and identified trending products.
    - **Tech Stack**: Power BI, Jupyter Notebook, NumPy, Pandas, Python.
-   - [Project Folder](./Amazon-Sales-Report-Feb24)
-
+  
 2. **MS Dhoni Career Analysis Feb’24**
    - **Description**: Detailed analysis of MS Dhoni’s career statistics and performance trends.
    - **Tech Stack**: Power BI, Jupyter Notebook, NumPy, Pandas, Python.
-   - [Project Folder](./MS-Dhoni-Career-Analysis-Feb24)
+ 
 
 3. **Custom Projects**
    - Additional projects will be added to showcase ongoing work in data analysis.
