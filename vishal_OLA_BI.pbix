@@ -59,9 +59,4 @@ plt.show()
 # Save processed data
 data.to_csv('../Data/cleaned_ola_rides.csv', index=False)
 
-# Summary
-print(\"\"\"Analysis Summary:\n
-- Most rides originate from {city_rides.idxmax()}.
-- The average ride duration varies by city, with the longest rides in {avg_duration.idxmax()}.
-- Peak booking hours are observed at {peak_hours.idxmax()}.
-\"\"\")
+
