@@ -14,27 +14,27 @@ Each project in this repository highlights specific aspects of data analysis, in
 
 1. **Amazon Sales Report Feb’24**
    - **Description**: Analyzed customer activities and identified trending products.
-   - **Tech Stack**: Power BI, Jupyter Notebook, NumPy, Pandas, Python.
+   - **Tech Stack**: Power BI, Jupyter Notebook, NumPy, Pandas, Python,SQL,Googlesheet.
   
 2. **MS Dhoni Career Analysis Feb’24**
    - **Description**: Detailed analysis of MS Dhoni’s career statistics and performance trends.
    - **Tech Stack**: Power BI, Jupyter Notebook, NumPy, Pandas, Python.
   
 3. **Ola Ride Data Analysis jan'25**
-   - **Description: Analyzed ride patterns, customer preferences, and revenue trends to enhance operational efficiency for Ola.
-   - **Tech Stack: Power BI, Python (Pandas, NumPy), Jupyter Notebook.
+   - **Description**: Analyzed ride patterns, customer preferences, and revenue trends to enhance operational efficiency for Ola.
+   - **Tech Stack**: Power BI, Python (Pandas, NumPy), Jupyter Notebook,SQL.
   
 4. **Apollo Hospital Patient & Treatment Analysis Jan'25**
-   - **Description: Explored patient demographics, disease trends, and treatment patterns to improve hospital decision-making and efficiency.
-   - **Tech Stack: Power BI, Python (Pandas, NumPy), Jupyter Notebook.
+   - **Description**: Explored patient demographics, disease trends, and treatment patterns to improve hospital decision-making and efficiency.
+   - **Tech Stack**: Power BI, Python (Pandas, NumPy), Jupyter Notebook.
   
 5. **Swiggy Sales & Customer Behavior Analysis feb'25**
-   - **Description: Analyzed order trends, customer preferences, and sales performance to optimize business insights for Swiggy.
-   - **Tech Stack: Power BI, Python (Pandas, NumPy), Jupyter Notebook,SQL.
+   - **Description**: Analyzed order trends, customer preferences, and sales performance to optimize business insights for Swiggy.
+   - **Tech Stack**: Power BI, Python (Pandas, NumPy), Jupyter Notebook,SQL.
   
 6. **Crime Analysis (2020-2024) Jan'25**
-   - **Description: Collected and analyzed crime data from 2020 to 2024, identifying key trends in crime occurrences, weapon usage, victim demographics, and case closures.
-   - **Tech Stack: Python, Google Sheets, Power BI.
+   - **Description**: Collected and analyzed crime data from 2020 to 2024, identifying key trends in crime occurrences, weapon usage, victim demographics, and case closures.
+   - **Tech Stack**: Python, Google Sheets, Power BI,SQL.
 
  
 
