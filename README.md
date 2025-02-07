@@ -65,6 +65,8 @@ To replicate or explore the projects, you need the following:
   - Matplotlib / Seaborn
   - Jupyter Notebook
 - **Power BI Desktop** (for interactive dashboards)
+- **SQL** (MySQL, PostgreSQL, or SQL Server)
+
 
 ## How to Use
 1. Clone this repository:
