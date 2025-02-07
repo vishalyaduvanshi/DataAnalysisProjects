@@ -24,7 +24,7 @@ Each project in this repository highlights specific aspects of data analysis, in
    - **Description: Analyzed ride patterns, customer preferences, and revenue trends to enhance operational efficiency for Ola.
    - **Tech Stack: Power BI, Python (Pandas, NumPy), Jupyter Notebook.
   
-4. **Apollo Hospital Patient & Treatment Analysis Jan'25
+4. **Apollo Hospital Patient & Treatment Analysis Jan'25**
    - **Description: Explored patient demographics, disease trends, and treatment patterns to improve hospital decision-making and efficiency.
    - **Tech Stack: Power BI, Python (Pandas, NumPy), Jupyter Notebook.
   
